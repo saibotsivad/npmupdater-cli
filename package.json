@@ -1,0 +1,28 @@
+{
+  "name": "npmupdater-cli",
+  "version": "0.0.7",
+  "description": "The command line version of npmupdater.",
+  "main": "index.js",
+  "bin": {
+    "npmupdater": "lib/cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tobiaslabs/npmupdater-cli.git"
+  },
+  "keywords": [
+    "npmupdater"
+  ],
+  "author": "saibotsivad",
+  "license": "VOL",
+  "bugs": {
+    "url": "https://github.com/tobiaslabs/npmupdater-cli/issues"
+  },
+  "dependencies": {
+    "npm": "~2.5.1",
+    "path": "~0.11.14",
+    "promise": "~6.1.0",
+    "npm-owned-modules": "~0.0.7",
+    "npmupdater": "~0.0.9"
+  }
+}
