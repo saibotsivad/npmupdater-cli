@@ -33,7 +33,7 @@ Because the updater checks with Github, and [Github rate-limits](https://develop
 to 60 requests per hour for unauthenticated requests, you might find it handy to use authentication to
 remove the rate limit.
 
-The npmupdater uses the [github](https://www.npmjs.com/package/github) module, which uses the
+The npmupdater uses the [github](https://www.npmjs.com/package/github) module, which uses one of the
 following three auth objects:
 
 	// basic login
@@ -54,7 +54,7 @@ following three auth objects:
 		secret: "clientSecret"
 	}
 
-To use these, pass in a JSON filename as one of the parameters when you use npmupdater. E.g., either
+To use one of these, pass in a JSON filename as one of the parameters when you use npmupdater. E.g., either
 one of these will work:
 
 	npmupdater --all file.json
