@@ -1,4 +1,6 @@
-# npmupdater-cli
+# npmupdater-cli [![Build Status](https://travis-ci.org/tobiaslabs/npmupdater-cli.svg?branch=master)](https://travis-ci.org/tobiaslabs/npmupdater-cli)
+
+[![NPM](https://nodei.co/npm/npmupdater-cli.png)](https://nodei.co/npm/npmupdater-cli/)
 
 ![logo thingy](logo.png)
 
