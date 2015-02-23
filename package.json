@@ -1,6 +1,6 @@
 {
   "name": "npmupdater-cli",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "The command line version of npmupdater.",
   "main": "index.js",
   "bin": {
