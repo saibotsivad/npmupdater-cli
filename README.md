@@ -1,5 +1,7 @@
 # npmupdater-cli [![Build Status](https://travis-ci.org/tobiaslabs/npmupdater-cli.svg?branch=master)](https://travis-ci.org/tobiaslabs/npmupdater-cli)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/saibotsivad/npmupdater-cli.svg)](https://greenkeeper.io/)
+
 ![logo thingy](logo.png)
 
 The command line version of the [npmupdater](https://www.npmjs.com/package/npmupdater) module.
